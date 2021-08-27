@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="23.67" tests="2" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="2" failures="0" errors="0" time="23.67" skipped="0" timestamp="2021-08-27 13:15:38" hostname="Vikrant_Kumar - EPINHYDW09DC" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Vikrant_Kumar\\git\\KatalonGitTest1\\Reports\\20210827_131532\\TestSuite1\\20210827_131534"/>
+         <property name="logFiles" value="C:\\Users\\Vikrant_Kumar\\git\\KatalonGitTest1\\Reports\\20210827_131532\\TestSuite1\\20210827_131534\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Vikrant_Kumar - EPINHYDW09DC"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.1.0.208"/>
+         <property name="browser" value="Firefox 91.0"/>
+         <property name="hostAddress" value="192.168.0.109"/>
+         <property name="sessionId" value="b54f3681-d84d-43c1-81ed-fabbb4750b18"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/test1" time="9.854" classname="Test Cases/test1" status="PASSED">
+         <system-out><![CDATA[2021-08-27 13:15:38 - [TEST_CASE][PASSED] - Test Cases/test1: Test Cases/test1
+
+2021-08-27 13:15:38 - [TEST_STEP][PASSED] - openBrowser("www.google.com"): Browser is opened with url: 'www.google.com'
+
+2021-08-27 13:15:39 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2021-08-27 13:15:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-08-27 13:15:46 - [MESSAGE][PASSED] - Browser is opened with url: 'www.google.com'
+
+2021-08-27 13:15:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-08-27 13:15:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test2" time="12.702" classname="Test Cases/test2" status="PASSED">
+         <system-out><![CDATA[2021-08-27 13:15:48 - [TEST_CASE][PASSED] - Test Cases/test2: Test Cases/test2
+
+2021-08-27 13:15:48 - [TEST_STEP][PASSED] - openBrowser("www.youtube.com"): Browser is opened with url: 'www.youtube.com'
+
+2021-08-27 13:15:48 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2021-08-27 13:15:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-08-27 13:15:58 - [MESSAGE][PASSED] - Browser is opened with url: 'www.youtube.com'
+
+2021-08-27 13:15:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-08-27 13:16:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-08-27 13:15:38 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/test2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
